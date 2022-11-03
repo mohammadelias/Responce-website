@@ -43,3 +43,11 @@ nav ul li a{
 nav ul li a:hover,nav ul li a.active{
      background-color: #566573;
 }
+/* header section */
+header{
+     background-image: url('r-img/helikepter.jpg');
+     height: 90vh;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+}
